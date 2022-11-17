@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Lato-Bold.ttf",
+      "sha1": "a3a53a436baaf6dc2e7a05f05866a761c214692b"
+    },
+    {
+      "path": "src/assets/fonts/Lato-Medium.ttf",
+      "sha1": "ec2319bc4502cc6bb88df89fd1acdd727fb55ce9"
+    },
+    {
+      "path": "src/assets/fonts/Lato-Regular.ttf",
+      "sha1": "29eb192629b0bbb41a7b7f49ab2aec82d4261921"
+    }
+  ]
+}
